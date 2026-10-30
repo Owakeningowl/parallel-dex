@@ -1,0 +1,15 @@
+/* No top bar: the panels start at the top, the theme picker sits in the corner. */
+.pfx-panel { top: 0 !important; }
+.nav-theme.pe-theme { position: fixed; top: 10px; right: 14px; z-index: 20; }
+.pe-title { margin: 18px 0 8px; }
+/* The pixel logo is drawn 3x without smoothing, on a soft emerald glow taken from its own colours. */
+.pe-title a { position: relative; display: inline-block; isolation: isolate; }
+.pe-title a::before {
+  content: ''; position: absolute; inset: -22px -46px; z-index: -1; pointer-events: none;
+  background: radial-gradient(ellipse closest-side, rgba(46, 170, 110, 0.38), rgba(40, 110, 150, 0.14) 60%, transparent 100%);
+  filter: blur(6px);
+}
+.pe-title img { display: block; width: 381px; max-width: 100%; height: auto; image-rendering: pixelated; }
+html:not([data-theme="dark"]) .pe-title a::before {
+  background: radial-gradient(ellipse closest-side, rgba(46, 170, 110, 0.26), rgba(40, 110, 150, 0.10) 60%, transparent 100%);
+}
