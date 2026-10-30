@@ -295,7 +295,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "megadrain": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -591,7 +590,6 @@ exports.BattleLearnsets = {
  "venusaur": {
   "learnset": {
    "gigadrain": [
-    "L1",
     "L1",
     "M"
    ],
@@ -1281,7 +1279,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "incinerate": [
     "L1",
-    "L1",
     "T"
    ],
    "scratch": [
@@ -1633,7 +1630,6 @@ exports.BattleLearnsets = {
  "charizard": {
   "learnset": {
    "airslash": [
-    "L1",
     "L1",
     "T"
    ],
@@ -2395,7 +2391,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "razorshell": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -2738,7 +2733,6 @@ exports.BattleLearnsets = {
  "blastoise": {
   "learnset": {
    "irontail": [
-    "L1",
     "L1",
     "M"
    ],
@@ -3158,7 +3152,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "harden": [
     "L1",
-    "L1",
     "T"
    ],
    "bugbite": [
@@ -3178,7 +3171,6 @@ exports.BattleLearnsets = {
  "butterfree": {
   "learnset": {
    "gust": [
-    "L1",
     "L1",
     "T"
    ],
@@ -3484,7 +3476,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "harden": [
     "L1",
-    "L1",
     "T"
    ],
    "poisonsting": [
@@ -3514,7 +3505,6 @@ exports.BattleLearnsets = {
  "beedrill": {
   "learnset": {
    "bugbite": [
-    "L1",
     "L1",
     "T"
    ],
@@ -4698,7 +4688,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "scaryface": [
     "L1",
-    "L1",
     "T"
    ],
    "swordsdance": [
@@ -5752,7 +5741,6 @@ exports.BattleLearnsets = {
  "arbok": {
   "learnset": {
    "crunch": [
-    "L1",
     "L1",
     "M"
    ],
@@ -7103,7 +7091,6 @@ exports.BattleLearnsets = {
  "sandslash": {
   "learnset": {
    "crushclaw": [
-    "L1",
     "L1",
     "T"
    ],
@@ -13479,7 +13466,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "grassyglide": [
     "L1",
-    "L1",
     "T"
    ],
    "crosspoison": [
@@ -14010,7 +13996,6 @@ exports.BattleLearnsets = {
  "venomoth": {
   "learnset": {
    "gust": [
-    "L1",
     "L1",
     "T"
    ],
@@ -14570,7 +14555,6 @@ exports.BattleLearnsets = {
  "dugtrio": {
   "learnset": {
    "sandtomb": [
-    "L1",
     "L1",
     "T"
    ],
@@ -15192,7 +15176,6 @@ exports.BattleLearnsets = {
  "persian": {
   "learnset": {
    "swift": [
-    "L1",
     "L1",
     "T"
    ],
@@ -16707,7 +16690,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "drainpunch": [
     "L1",
-    "L1",
     "M"
    ],
    "finalgambit": [
@@ -18189,7 +18171,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "closecombat": [
     "L1",
-    "L1",
     "M"
    ],
    "circlethrow": [
@@ -18860,7 +18841,6 @@ exports.BattleLearnsets = {
  "kadabra": {
   "learnset": {
    "psybeam": [
-    "L1",
     "L1",
     "T"
    ],
@@ -21085,7 +21065,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "leaftornado": [
     "L1",
-    "L1",
     "T"
    ],
    "stockpile": [
@@ -23067,7 +23046,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "furyattack": [
     "L1",
-    "L1",
     "T"
    ],
    "poisonjab": [
@@ -23683,7 +23661,6 @@ exports.BattleLearnsets = {
  "slowbro": {
   "learnset": {
    "withdraw": [
-    "L1",
     "L1",
     "T"
    ],
@@ -24353,7 +24330,6 @@ exports.BattleLearnsets = {
  "magneton": {
   "learnset": {
    "triattack": [
-    "L1",
     "L1",
     "T"
    ],
@@ -25169,7 +25145,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "triattack": [
     "L1",
-    "L1",
     "T"
    ],
    "peck": [
@@ -25717,7 +25692,6 @@ exports.BattleLearnsets = {
  "dewgong": {
   "learnset": {
    "sheercold": [
-    "L1",
     "L1",
     "T"
    ],
@@ -26311,7 +26285,6 @@ exports.BattleLearnsets = {
  "muk": {
   "learnset": {
    "venomdrench": [
-    "L1",
     "L1",
     "T"
    ],
@@ -27475,7 +27448,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "shadowpunch": [
     "L1",
-    "L1",
     "T"
    ],
    "hypnosis": [
@@ -27805,7 +27777,6 @@ exports.BattleLearnsets = {
  "gengar": {
   "learnset": {
    "shadowpunch": [
-    "L1",
     "L1",
     "T"
    ],
@@ -30512,7 +30483,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "stomp": [
     "L1",
-    "L1",
     "T"
    ],
    "seedbomb": [
@@ -31141,7 +31111,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "skullbash": [
     "L1",
-    "L1",
     "T"
    ],
    "growl": [
@@ -31471,7 +31440,6 @@ exports.BattleLearnsets = {
  "hitmonlee": {
   "learnset": {
    "doublekick": [
-    "L1",
     "L1",
     "T"
    ],
@@ -31805,7 +31773,6 @@ exports.BattleLearnsets = {
  "hitmonchan": {
   "learnset": {
    "cometpunch": [
-    "L1",
     "L1",
     "T"
    ],
@@ -33373,7 +33340,6 @@ exports.BattleLearnsets = {
  "rhydon": {
   "learnset": {
    "hammerarm": [
-    "L1",
     "L1",
     "T"
    ],
@@ -38749,7 +38715,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "bite": [
     "L1",
-    "L1",
     "T"
    ],
    "thrash": [
@@ -39640,7 +39605,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "surf": [
     "L1",
-    "L1",
     "M"
    ],
    "tackle": [
@@ -39962,7 +39926,6 @@ exports.BattleLearnsets = {
  "jolteon": {
   "learnset": {
    "discharge": [
-    "L1",
     "L1",
     "L40",
     "T"
@@ -40288,7 +40251,6 @@ exports.BattleLearnsets = {
  "flareon": {
   "learnset": {
    "flaringrush": [
-    "L1",
     "L1",
     "M"
    ],
@@ -41143,7 +41105,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "spikecannon": [
     "L1",
-    "L1",
     "T"
    ],
    "bind": [
@@ -41709,7 +41670,6 @@ exports.BattleLearnsets = {
  "kabutops": {
   "learnset": {
    "slash": [
-    "L1",
     "L1",
     "T"
    ],
@@ -44139,7 +44099,6 @@ exports.BattleLearnsets = {
  "dragonite": {
   "learnset": {
    "extremespeed": [
-    "L1",
     "L1",
     "T"
    ],
@@ -46703,7 +46662,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "magicalleaf": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -47000,7 +46958,6 @@ exports.BattleLearnsets = {
  "meganium": {
   "learnset": {
    "energyball": [
-    "L1",
     "L1",
     "M"
    ],
@@ -47610,7 +47567,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "flameburst": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -47893,7 +47849,6 @@ exports.BattleLearnsets = {
  "typhlosion": {
   "learnset": {
    "heatwave": [
-    "L1",
     "L1",
     "T"
    ],
@@ -48606,7 +48561,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "icefang": [
     "L1",
-    "L1",
     "T"
    ],
    "scratch": [
@@ -48951,7 +48905,6 @@ exports.BattleLearnsets = {
  "feraligatr": {
   "learnset": {
    "dragonclaw": [
-    "L1",
     "L1",
     "M"
    ],
@@ -49654,7 +49607,6 @@ exports.BattleLearnsets = {
  "furret": {
   "learnset": {
    "agility": [
-    "L1",
     "L1",
     "T"
    ],
@@ -51357,7 +51309,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "swordsdance": [
     "L1",
-    "L1",
     "M"
    ],
    "focusenergy": [
@@ -51643,7 +51594,6 @@ exports.BattleLearnsets = {
  "crobat": {
   "learnset": {
    "crosspoison": [
-    "L1",
     "L1",
     "T"
    ],
@@ -52175,16 +52125,13 @@ exports.BattleLearnsets = {
   "learnset": {
    "stockpile": [
     "L1",
-    "L1",
     "T"
    ],
    "swallow": [
     "L1",
-    "L1",
     "T"
    ],
    "spitup": [
-    "L1",
     "L1",
     "T"
    ],
@@ -54397,7 +54344,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "airslash": [
     "L1",
-    "L1",
     "T"
    ],
    "tailwind": [
@@ -55235,7 +55181,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "dragonpulse": [
     "L1",
-    "L1",
     "M"
    ],
    "zapcannon": [
@@ -55563,7 +55508,6 @@ exports.BattleLearnsets = {
  "bellossom": {
   "learnset": {
    "magicalleaf": [
-    "L1",
     "L1",
     "T"
    ],
@@ -56501,7 +56445,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "slam": [
     "L1",
-    "L1",
     "T"
    ],
    "woodhammer": [
@@ -56823,7 +56766,6 @@ exports.BattleLearnsets = {
  "politoed": {
   "learnset": {
    "perishsong": [
-    "L1",
     "L1",
     "T"
    ],
@@ -59570,7 +59512,6 @@ exports.BattleLearnsets = {
  "espeon": {
   "learnset": {
    "extrasensory": [
-    "L1",
     "L1"
    ],
    "tackle": [
@@ -59912,7 +59853,6 @@ exports.BattleLearnsets = {
  "umbreon": {
   "learnset": {
    "snarl": [
-    "L1",
     "L1",
     "M"
    ],
@@ -61941,11 +61881,9 @@ exports.BattleLearnsets = {
   "learnset": {
    "mirrorshot": [
     "L1",
-    "L1",
     "T"
    ],
    "autotomize": [
-    "L1",
     "L1",
     "T"
    ],
@@ -65919,7 +65857,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "hammerarm": [
     "L1",
-    "L1",
     "T"
    ],
    "scratch": [
@@ -66529,7 +66466,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "shellsmash": [
     "L1",
-    "L1",
     "T"
    ],
    "earthpower": [
@@ -67074,7 +67010,6 @@ exports.BattleLearnsets = {
  "piloswine": {
   "learnset": {
    "furyattack": [
-    "L1",
     "L1",
     "T"
    ],
@@ -67887,7 +67822,6 @@ exports.BattleLearnsets = {
  "octillery": {
   "learnset": {
    "octazooka": [
-    "L1",
     "L1",
     "T"
    ],
@@ -69333,7 +69267,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "snarl": [
     "L1",
-    "L1",
     "M"
    ],
    "thunderfang": [
@@ -70151,7 +70084,6 @@ exports.BattleLearnsets = {
  "donphan": {
   "learnset": {
    "dig": [
-    "L1",
     "L1",
     "M"
    ],
@@ -71270,7 +71202,6 @@ exports.BattleLearnsets = {
  "hitmontop": {
   "learnset": {
    "rollingkick": [
-    "L1",
     "L1",
     "T"
    ],
@@ -74168,7 +74099,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "irondefense": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -76181,7 +76111,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "megadrain": [
     "L1",
-    "L1",
     "T"
    ],
    "pound": [
@@ -76516,7 +76445,6 @@ exports.BattleLearnsets = {
  "sceptile": {
   "learnset": {
    "dragonpulse": [
-    "L1",
     "L1",
     "M"
    ],
@@ -77193,7 +77121,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "lowsweep": [
     "L1",
-    "L1",
     "M"
    ],
    "scratch": [
@@ -77533,7 +77460,6 @@ exports.BattleLearnsets = {
  "blaziken": {
   "learnset": {
    "blazekick": [
-    "L1",
     "L1",
     "T"
    ],
@@ -78221,7 +78147,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "bubblesmack": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -78546,7 +78471,6 @@ exports.BattleLearnsets = {
  "swampert": {
   "learnset": {
    "stompingtantrum": [
-    "L1",
     "L1",
     "T"
    ],
@@ -79168,7 +79092,6 @@ exports.BattleLearnsets = {
  "mightyena": {
   "learnset": {
    "snarl": [
-    "L1",
     "L1",
     "M"
    ],
@@ -80026,7 +79949,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "harden": [
     "L1",
-    "L1",
     "T"
    ],
    "bugbite": [
@@ -80052,7 +79974,6 @@ exports.BattleLearnsets = {
  "beautifly": {
   "learnset": {
    "gust": [
-    "L1",
     "L1",
     "T"
    ],
@@ -80269,7 +80190,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "harden": [
     "L1",
-    "L1",
     "T"
    ],
    "bugbite": [
@@ -80295,7 +80215,6 @@ exports.BattleLearnsets = {
  "dustox": {
   "learnset": {
    "gust": [
-    "L1",
     "L1",
     "T"
    ],
@@ -81572,7 +81491,6 @@ exports.BattleLearnsets = {
  "nuzleaf": {
   "learnset": {
    "razorleaf": [
-    "L1",
     "L1",
     "T"
    ],
@@ -82980,7 +82898,6 @@ exports.BattleLearnsets = {
  "pelipper": {
   "learnset": {
    "protect": [
-    "L1",
     "L1",
     "M"
    ],
@@ -85074,7 +84991,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "machpunch": [
     "L1",
-    "L1",
     "T"
    ],
    "absorb": [
@@ -86061,7 +85977,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "swagger": [
     "L1",
-    "L1",
     "T"
    ],
    "hammerarm": [
@@ -86638,16 +86553,13 @@ exports.BattleLearnsets = {
   "learnset": {
    "doubleteam": [
     "L1",
-    "L1",
     "M"
    ],
    "screech": [
     "L1",
-    "L1",
     "T"
    ],
    "furycutter": [
-    "L1",
     "L1",
     "T"
    ],
@@ -87352,7 +87264,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "bite": [
     "L1",
-    "L1",
     "T"
    ],
    "pound": [
@@ -87634,7 +87545,6 @@ exports.BattleLearnsets = {
  "exploud": {
   "learnset": {
    "crunch": [
-    "L1",
     "L1",
     "M"
    ],
@@ -91708,7 +91618,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "zenheadbutt": [
     "L1",
-    "L1",
     "M"
    ],
    "firepunch": [
@@ -94166,7 +94075,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "bodyslam": [
     "L1",
-    "L1",
     "T"
    ],
    "venomdrench": [
@@ -94700,7 +94608,6 @@ exports.BattleLearnsets = {
  "sharpedo": {
   "learnset": {
    "slash": [
-    "L1",
     "L1",
     "T"
    ],
@@ -95731,7 +95638,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "rockslide": [
     "L1",
-    "L1",
     "M"
    ],
    "fissure": [
@@ -96606,7 +96512,6 @@ exports.BattleLearnsets = {
  "grumpig": {
   "learnset": {
    "teeterdance": [
-    "L1",
     "L1",
     "T"
    ],
@@ -97519,7 +97424,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "dragonbreath": [
     "L1",
-    "L1",
     "T"
    ],
    "sandattack": [
@@ -97817,7 +97721,6 @@ exports.BattleLearnsets = {
  "flygon": {
   "learnset": {
    "dragonclaw": [
-    "L1",
     "L1",
     "M"
    ],
@@ -98514,7 +98417,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "spikyshield": [
     "L1",
-    "L1",
     "T"
    ],
    "destinybond": [
@@ -99178,7 +99080,6 @@ exports.BattleLearnsets = {
  "altaria": {
   "learnset": {
    "dragonpulse": [
-    "L1",
     "L1",
     "M"
    ],
@@ -101057,7 +100958,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "thrash": [
     "L1",
-    "L1",
     "T"
    ],
    "belch": [
@@ -101602,7 +101502,6 @@ exports.BattleLearnsets = {
  "crawdaunt": {
   "learnset": {
    "swift": [
-    "L1",
     "L1",
     "T"
    ],
@@ -102198,7 +102097,6 @@ exports.BattleLearnsets = {
  "claydol": {
   "learnset": {
    "recover": [
-    "L1",
     "L1",
     "T"
    ],
@@ -103254,7 +103152,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "tectonicdrift": [
     "L1",
-    "L1",
     "M"
    ],
    "scratch": [
@@ -103690,7 +103587,6 @@ exports.BattleLearnsets = {
  "milotic": {
   "learnset": {
    "waterpulse": [
-    "L1",
     "L1",
     "M"
    ],
@@ -105411,7 +105307,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "shadowpunch": [
     "L1",
-    "L1",
     "T"
    ],
    "futuresight": [
@@ -106973,7 +106868,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "freezedry": [
     "L1",
-    "L1",
     "M"
    ],
    "sheercold": [
@@ -107459,7 +107353,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "swagger": [
     "L1",
-    "L1",
     "T"
    ],
    "defensecurl": [
@@ -107692,7 +107585,6 @@ exports.BattleLearnsets = {
  "walrein": {
   "learnset": {
    "icefang": [
-    "L1",
     "L1",
     "T"
    ],
@@ -109235,7 +109127,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "protect": [
     "L1",
-    "L1",
     "M"
    ],
    "leer": [
@@ -109463,7 +109354,6 @@ exports.BattleLearnsets = {
  "salamence": {
   "learnset": {
    "fly": [
-    "L1",
     "L1",
     "M"
    ],
@@ -109792,11 +109682,9 @@ exports.BattleLearnsets = {
   "learnset": {
    "confusion": [
     "L1",
-    "L1",
     "T"
    ],
    "metalclaw": [
-    "L1",
     "L1",
     "T"
    ],
@@ -110078,7 +109966,6 @@ exports.BattleLearnsets = {
  "metagross": {
   "learnset": {
    "hammerarm": [
-    "L1",
     "L1",
     "T"
    ],
@@ -113756,7 +113643,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "grassyglide": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -114042,7 +113928,6 @@ exports.BattleLearnsets = {
  "torterra": {
   "learnset": {
    "earthquake": [
-    "L1",
     "L1",
     "M"
    ],
@@ -114719,7 +114604,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "poweruppunch": [
     "L1",
-    "L1",
     "T"
    ],
    "scratch": [
@@ -115084,7 +114968,6 @@ exports.BattleLearnsets = {
  "infernape": {
   "learnset": {
    "closecombat": [
-    "L1",
     "L1",
     "M"
    ],
@@ -115804,7 +115687,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "aerialace": [
     "L1",
-    "L1",
     "M"
    ],
    "pound": [
@@ -116111,7 +115993,6 @@ exports.BattleLearnsets = {
  "empoleon": {
   "learnset": {
    "flashcannon": [
-    "L1",
     "L1",
     "M"
    ],
@@ -116936,7 +116817,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "closecombat": [
     "L1",
-    "L1",
     "M"
    ],
    "tackle": [
@@ -117406,7 +117286,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "aquajet": [
     "L1",
-    "L1",
     "T"
    ],
    "watergun": [
@@ -117740,7 +117619,6 @@ exports.BattleLearnsets = {
  "kricketune": {
   "learnset": {
    "furycutter": [
-    "L1",
     "L1",
     "T"
    ],
@@ -118444,7 +118322,6 @@ exports.BattleLearnsets = {
  "luxray": {
   "learnset": {
    "electricterrain": [
-    "L1",
     "L1",
     "T"
    ],
@@ -119424,7 +119301,6 @@ exports.BattleLearnsets = {
  "rampardos": {
   "learnset": {
    "accelerock": [
-    "L1",
     "L1"
    ],
    "endeavor": [
@@ -120015,7 +119891,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "bodypress": [
     "L1",
-    "L1",
     "T"
    ],
    "block": [
@@ -120334,7 +120209,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "quiverdance": [
     "L1",
-    "L1",
     "T"
    ],
    "suckerpunch": [
@@ -120548,7 +120422,6 @@ exports.BattleLearnsets = {
  "mothim": {
   "learnset": {
    "quiverdance": [
-    "L1",
     "L1",
     "T"
    ],
@@ -120818,7 +120691,6 @@ exports.BattleLearnsets = {
  "vespiquen": {
   "learnset": {
    "slash": [
-    "L1",
     "L1",
     "T"
    ],
@@ -122184,7 +122056,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "incinerate": [
     "L1",
-    "L1",
     "T"
    ],
    "dazzlinggleam": [
@@ -122946,7 +122817,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "acrobatics": [
     "L1",
-    "L1",
     "M"
    ],
    "dualchop": [
@@ -123593,7 +123463,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "shadowball": [
     "L1",
-    "L1",
     "M"
    ],
    "phantomforce": [
@@ -124216,7 +124085,6 @@ exports.BattleLearnsets = {
  "lopunny": {
   "learnset": {
    "return": [
-    "L1",
     "L1",
     "M"
    ],
@@ -124906,7 +124774,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "nightslash": [
     "L1",
-    "L1",
     "T"
    ],
    "peck": [
@@ -125460,7 +125327,6 @@ exports.BattleLearnsets = {
  "purugly": {
   "learnset": {
    "swagger": [
-    "L1",
     "L1",
     "T"
    ],
@@ -126286,7 +126152,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "flamethrower": [
     "L1",
-    "L1",
     "M"
    ],
    "scratch": [
@@ -126873,7 +126738,6 @@ exports.BattleLearnsets = {
  "bronzong": {
   "learnset": {
    "block": [
-    "L1",
     "L1",
     "T"
    ],
@@ -128697,7 +128561,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "dualchop": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -128957,7 +128820,6 @@ exports.BattleLearnsets = {
  "garchomp": {
   "learnset": {
    "earthquake": [
-    "L1",
     "L1",
     "M"
    ],
@@ -131669,7 +131531,6 @@ exports.BattleLearnsets = {
  "toxicroak": {
   "learnset": {
    "drainpunch": [
-    "L1",
     "L1",
     "M"
    ],
@@ -134928,7 +134789,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "block": [
     "L1",
-    "L1",
     "T"
    ],
    "absorb": [
@@ -136522,7 +136382,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "seedbomb": [
     "L1",
-    "L1",
     "T"
    ],
    "swift": [
@@ -136832,7 +136691,6 @@ exports.BattleLearnsets = {
  "glaceon": {
   "learnset": {
    "freezedry": [
-    "L1",
     "L1",
     "L40",
     "M"
@@ -137493,7 +137351,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "earthquake": [
     "L1",
-    "L1",
     "M"
    ],
    "iciclecrash": [
@@ -137783,7 +137640,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "nastyplot": [
     "L1",
-    "L1",
     "T"
    ],
    "trickroom": [
@@ -138046,7 +137902,6 @@ exports.BattleLearnsets = {
  "gallade": {
   "learnset": {
    "slash": [
-    "L1",
     "L1",
     "T"
    ],
@@ -138536,7 +138391,6 @@ exports.BattleLearnsets = {
  "probopass": {
   "learnset": {
    "triattack": [
-    "L1",
     "L1",
     "T"
    ],
@@ -139166,7 +139020,6 @@ exports.BattleLearnsets = {
  "froslass": {
   "learnset": {
    "ominouswind": [
-    "L1",
     "L1",
     "T"
    ],
@@ -144380,7 +144233,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "dragontail": [
     "L1",
-    "L1",
     "M"
    ],
    "tackle": [
@@ -144657,7 +144509,6 @@ exports.BattleLearnsets = {
  "serperior": {
   "learnset": {
    "dragonpulse": [
-    "L1",
     "L1",
     "M"
    ],
@@ -145228,7 +145079,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "forcepalm": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -145542,7 +145392,6 @@ exports.BattleLearnsets = {
  "emboar": {
   "learnset": {
    "heatcrash": [
-    "L1",
     "L1",
     "T"
    ],
@@ -146142,7 +145991,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "razorshell": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -146402,7 +146250,6 @@ exports.BattleLearnsets = {
  "samurott": {
   "learnset": {
    "megahorn": [
-    "L1",
     "L1",
     "T"
    ],
@@ -146936,7 +146783,6 @@ exports.BattleLearnsets = {
  "watchog": {
   "learnset": {
    "confuseray": [
-    "L1",
     "L1",
     "T"
    ],
@@ -151414,7 +151260,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "powergem": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -152610,7 +152455,6 @@ exports.BattleLearnsets = {
  "excadrill": {
   "learnset": {
    "horndrill": [
-    "L1",
     "L1",
     "T"
    ],
@@ -154373,7 +154217,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "acid": [
     "L1",
-    "L1",
     "T"
    ],
    "bubble": [
@@ -155294,7 +155137,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "protect": [
     "L1",
-    "L1",
     "M"
    ],
    "grasswhistle": [
@@ -155496,7 +155338,6 @@ exports.BattleLearnsets = {
  "leavanny": {
   "learnset": {
    "slash": [
-    "L1",
     "L1",
     "T"
    ],
@@ -155964,7 +155805,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "irondefense": [
     "L1",
-    "L1",
     "T"
    ],
    "defensecurl": [
@@ -156150,7 +155990,6 @@ exports.BattleLearnsets = {
  "scolipede": {
   "learnset": {
    "megahorn": [
-    "L1",
     "L1",
     "T"
    ],
@@ -157367,7 +157206,6 @@ exports.BattleLearnsets = {
     "M"
    ],
    "flipturn": [
-    "T",
     "T"
    ],
    "frustration": [
@@ -158623,7 +158461,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "hammerarm": [
     "L1",
-    "L1",
     "T"
    ],
    "ember": [
@@ -159341,7 +159178,6 @@ exports.BattleLearnsets = {
  "crustle": {
   "learnset": {
    "shellsmash": [
-    "L1",
     "L1",
     "T"
    ],
@@ -160720,7 +160556,6 @@ exports.BattleLearnsets = {
  "cofagrigus": {
   "learnset": {
    "scaryface": [
-    "L1",
     "L1",
     "T"
    ],
@@ -162192,7 +162027,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "poisonjab": [
     "L1",
-    "L1",
     "M"
    ],
    "pound": [
@@ -162725,7 +162559,6 @@ exports.BattleLearnsets = {
  "zoroark": {
   "learnset": {
    "nightslash": [
-    "L1",
     "L1",
     "T"
    ],
@@ -164891,7 +164724,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "dizzypunch": [
     "L1",
-    "L1",
     "T"
    ],
    "psywave": [
@@ -166393,7 +166225,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "hornleech": [
     "L1",
-    "L1",
     "T"
    ],
    "megahorn": [
@@ -167060,7 +166891,6 @@ exports.BattleLearnsets = {
  "escavalier": {
   "learnset": {
    "bulletpunch": [
-    "L1",
     "L1",
     "T"
    ],
@@ -168621,7 +168451,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "stickyweb": [
     "L1",
-    "L1",
     "T"
    ],
    "stringshot": [
@@ -169058,7 +168887,6 @@ exports.BattleLearnsets = {
  "ferrothorn": {
   "learnset": {
    "powerwhip": [
-    "L1",
     "L1",
     "T"
    ],
@@ -169706,7 +169534,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "geargrind": [
     "L1",
-    "L1",
     "T"
    ],
    "gearup": [
@@ -169955,7 +169782,6 @@ exports.BattleLearnsets = {
  "eelektrik": {
   "learnset": {
    "crunch": [
-    "L1",
     "L1",
     "M"
    ],
@@ -172777,7 +172603,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "iciclecrash": [
     "L1",
-    "L1",
     "M"
    ],
    "sheercold": [
@@ -175093,7 +174918,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "heavyslam": [
     "L1",
-    "L1",
     "T"
    ],
    "highhorsepower": [
@@ -175694,7 +175518,6 @@ exports.BattleLearnsets = {
  "bisharp": {
   "learnset": {
    "ironhead": [
-    "L1",
     "L1",
     "T"
    ],
@@ -176458,7 +176281,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "superpower": [
     "L1",
-    "L1",
     "T"
    ],
    "thrash": [
@@ -176936,7 +176758,6 @@ exports.BattleLearnsets = {
  "mandibuzz": {
   "learnset": {
    "bonerush": [
-    "L1",
     "L1",
     "T"
    ],
@@ -178664,7 +178485,6 @@ exports.BattleLearnsets = {
  "volcarona": {
   "learnset": {
    "quiverdance": [
-    "L1",
     "L1",
     "T"
    ],
@@ -182412,7 +182232,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "needlearm": [
     "L1",
-    "L1",
     "T"
    ],
    "growl": [
@@ -182735,7 +182554,6 @@ exports.BattleLearnsets = {
  "chesnaught": {
   "learnset": {
    "drainpunch": [
-    "L1",
     "L1",
     "M"
    ],
@@ -183373,7 +183191,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "psybeam": [
     "L1",
-    "L1",
     "T"
    ],
    "scratch": [
@@ -183664,7 +183481,6 @@ exports.BattleLearnsets = {
  "delphox": {
   "learnset": {
    "flamethrower": [
-    "L1",
     "L1",
     "M"
    ],
@@ -184268,7 +184084,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "feintattack": [
     "L1",
-    "L1",
     "T"
    ],
    "pound": [
@@ -184541,7 +184356,6 @@ exports.BattleLearnsets = {
  "greninja": {
   "learnset": {
    "darkpulse": [
-    "L1",
     "L1",
     "M"
    ],
@@ -185547,7 +185361,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "flamecharge": [
     "L1",
-    "L1",
     "M"
    ],
    "growl": [
@@ -185754,7 +185567,6 @@ exports.BattleLearnsets = {
  "talonflame": {
   "learnset": {
    "bravebird": [
-    "L1",
     "L1",
     "T"
    ],
@@ -186012,7 +185824,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "protect": [
     "L1",
-    "L1",
     "M"
    ],
    "harden": [
@@ -186045,7 +185856,6 @@ exports.BattleLearnsets = {
  "vivillon": {
   "learnset": {
    "gust": [
-    "L1",
     "L1",
     "T"
    ],
@@ -187605,7 +187415,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "seedbomb": [
     "L1",
-    "L1",
     "T"
    ],
    "highhorsepower": [
@@ -188150,7 +187959,6 @@ exports.BattleLearnsets = {
  "pangoro": {
   "learnset": {
    "bulletpunch": [
-    "L1",
     "L1",
     "T"
    ],
@@ -191572,7 +191380,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "tectonicdrift": [
     "L1",
-    "L1",
     "M"
    ],
    "shellsmash": [
@@ -192138,7 +191945,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "dragonpulse": [
     "L1",
-    "L1",
     "M"
    ],
    "dragontail": [
@@ -192590,7 +192396,6 @@ exports.BattleLearnsets = {
  "clawitzer": {
   "learnset": {
    "darkpulse": [
-    "L1",
     "L1",
     "M"
    ],
@@ -193541,7 +193346,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "rockslide": [
     "L1",
-    "L1",
     "M"
    ],
    "tailwhip": [
@@ -194074,7 +193878,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "freezedry": [
     "L1",
-    "L1",
     "M"
    ],
    "growl": [
@@ -194355,7 +194158,6 @@ exports.BattleLearnsets = {
  "sylveon": {
   "learnset": {
    "fairywind": [
-    "L1",
     "L1",
     "T"
    ],
@@ -195636,7 +195438,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "acidspray": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -195810,7 +195611,6 @@ exports.BattleLearnsets = {
  "goodra": {
   "learnset": {
    "aquatail": [
-    "L1",
     "L1",
     "T"
    ],
@@ -196573,7 +196373,6 @@ exports.BattleLearnsets = {
  "trevenant": {
   "learnset": {
    "shadowclaw": [
-    "L1",
     "L1",
     "M"
    ],
@@ -197603,7 +197402,6 @@ exports.BattleLearnsets = {
  "avalugg": {
   "learnset": {
    "iciclecrash": [
-    "L1",
     "L1",
     "M"
    ],
@@ -200162,7 +199960,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "aerialace": [
     "L1",
-    "L1",
     "M"
    ],
    "tackle": [
@@ -200428,7 +200225,6 @@ exports.BattleLearnsets = {
  "decidueye": {
   "learnset": {
    "spiritshackle": [
-    "L1",
     "L1",
     "T"
    ],
@@ -200999,7 +200795,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "firefang": [
     "L1",
-    "L1",
     "T"
    ],
    "scratch": [
@@ -201221,7 +201016,6 @@ exports.BattleLearnsets = {
  "incineroar": {
   "learnset": {
    "darkestlariat": [
-    "L1",
     "L1",
     "T"
    ],
@@ -201793,7 +201587,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "drainingkiss": [
     "L1",
-    "L1",
     "T"
    ],
    "pound": [
@@ -202025,7 +201818,6 @@ exports.BattleLearnsets = {
  "primarina": {
   "learnset": {
    "sparklingaria": [
-    "L1",
     "L1",
     "T"
    ],
@@ -202697,7 +202489,6 @@ exports.BattleLearnsets = {
  "toucannon": {
   "learnset": {
    "beakblast": [
-    "L1",
     "L1",
     "T"
    ],
@@ -203571,7 +203362,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "charge": [
     "L1",
-    "L1",
     "T"
    ],
    "visegrip": [
@@ -203756,7 +203546,6 @@ exports.BattleLearnsets = {
  "vikavolt": {
   "learnset": {
    "thunderbolt": [
-    "L1",
     "L1",
     "M"
    ],
@@ -204228,7 +204017,6 @@ exports.BattleLearnsets = {
  "crabominable": {
   "learnset": {
    "icepunch": [
-    "L1",
     "L1",
     "T"
    ],
@@ -204943,7 +204731,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "pollenpuff": [
     "L1",
-    "L1",
     "T"
    ],
    "absorb": [
@@ -205425,7 +205212,6 @@ exports.BattleLearnsets = {
  "lycanroc": {
   "learnset": {
    "accelerock": [
-    "L1",
     "L1",
     "T"
    ],
@@ -206062,7 +205848,6 @@ exports.BattleLearnsets = {
  "toxapex": {
   "learnset": {
    "banefulbunker": [
-    "L1",
     "L1",
     "T"
    ],
@@ -207316,7 +207101,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "petalblizzard": [
     "L1",
-    "L1",
     "T"
    ],
    "xscissor": [
@@ -207747,7 +207531,6 @@ exports.BattleLearnsets = {
  "shiinotic": {
   "learnset": {
    "strengthsap": [
-    "L1",
     "L1",
     "T"
    ],
@@ -208207,7 +207990,6 @@ exports.BattleLearnsets = {
  "salazzle": {
   "learnset": {
    "captivate": [
-    "L1",
     "L1",
     "T"
    ],
@@ -208713,7 +208495,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "bind": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -209147,7 +208928,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "doubleslap": [
     "L1",
-    "L1",
     "T"
    ],
    "splash": [
@@ -209365,7 +209145,6 @@ exports.BattleLearnsets = {
  "tsareena": {
   "learnset": {
    "tropkick": [
-    "L1",
     "L1",
     "T"
    ],
@@ -210589,7 +210368,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "firstimpression": [
     "L1",
-    "L1",
     "T"
    ],
    "strugglebug": [
@@ -211110,7 +210888,6 @@ exports.BattleLearnsets = {
  "palossand": {
   "learnset": {
    "shoreup": [
-    "L1",
     "L1",
     "L54",
     "T"
@@ -211712,7 +211489,6 @@ exports.BattleLearnsets = {
  "silvally": {
   "learnset": {
    "multiattack": [
-    "L1",
     "L1",
     "T"
    ],
@@ -214239,7 +214015,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "skyuppercut": [
     "L1",
-    "L1",
     "T"
    ],
    "autotomize": [
@@ -214471,7 +214246,6 @@ exports.BattleLearnsets = {
  "kommoo": {
   "learnset": {
    "clangingscales": [
-    "L1",
     "L1",
     "T"
    ],
@@ -215797,7 +215571,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "cosmicpower": [
     "L1",
-    "L1",
     "T"
    ],
    "teleport": [
@@ -215809,7 +215582,6 @@ exports.BattleLearnsets = {
  "solgaleo": {
   "learnset": {
    "sunsteelstrike": [
-    "L1",
     "L1",
     "T"
    ],
@@ -216092,7 +215864,6 @@ exports.BattleLearnsets = {
  "lunala": {
   "learnset": {
    "moongeistbeam": [
-    "L1",
     "L1",
     "T"
    ],
@@ -218936,7 +218707,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "aircutter": [
     "L1",
-    "L1",
     "T"
    ],
    "dragonpulse": [
@@ -219981,7 +219751,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "thunderpunch": [
     "L1",
-    "L1",
     "T"
    ],
    "thundershock": [
@@ -220373,7 +220142,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "fakeout": [
     "L1",
-    "L1",
     "T"
    ],
    "scratch": [
@@ -220600,7 +220368,6 @@ exports.BattleLearnsets = {
  "rillaboom": {
   "learnset": {
    "drumbeating": [
-    "L1",
     "L1",
     "T"
    ],
@@ -221092,7 +220859,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "acrobatics": [
     "L1",
-    "L1",
     "M"
    ],
    "tackle": [
@@ -221303,7 +221069,6 @@ exports.BattleLearnsets = {
  "cinderace": {
   "learnset": {
    "pyroball": [
-    "L1",
     "L1",
     "T"
    ],
@@ -221765,7 +221530,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "flipturn": [
     "L1",
-    "L1",
     "T"
    ],
    "pound": [
@@ -221964,7 +221728,6 @@ exports.BattleLearnsets = {
  "inteleon": {
   "learnset": {
    "snipeshot": [
-    "L1",
     "L1",
     "T"
    ],
@@ -222390,7 +222153,6 @@ exports.BattleLearnsets = {
  "greedent": {
   "learnset": {
    "covet": [
-    "L1",
     "L1",
     "T"
    ],
@@ -222956,7 +222718,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "steelwing": [
     "L1",
-    "L1",
     "M"
    ],
    "irondefense": [
@@ -223211,16 +222972,13 @@ exports.BattleLearnsets = {
   "learnset": {
    "reflect": [
     "L1",
-    "L1",
     "M"
    ],
    "lightscreen": [
     "L1",
-    "L1",
     "M"
    ],
    "confusion": [
-    "L1",
     "L1",
     "T"
    ],
@@ -223371,7 +223129,6 @@ exports.BattleLearnsets = {
  "orbeetle": {
   "learnset": {
    "bugbuzz": [
-    "L1",
     "L1",
     "T"
    ],
@@ -223717,7 +223474,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "thief": [
     "L1",
-    "L1",
     "M"
    ],
    "quickattack": [
@@ -224043,7 +223799,6 @@ exports.BattleLearnsets = {
  "eldegoss": {
   "learnset": {
    "cottonspore": [
-    "L1",
     "L1",
     "T"
    ],
@@ -224635,7 +224390,6 @@ exports.BattleLearnsets = {
  "drednaw": {
   "learnset": {
    "rocktomb": [
-    "L1",
     "L1",
     "M"
    ],
@@ -225365,7 +225119,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "flamecharge": [
     "L1",
-    "L1",
     "M"
    ],
    "tackle": [
@@ -225572,7 +225325,6 @@ exports.BattleLearnsets = {
  "coalossal": {
   "learnset": {
    "tarshot": [
-    "L1",
     "L1",
     "T"
    ],
@@ -225842,7 +225594,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "wingattack": [
     "L1",
-    "L1",
     "T"
    ],
    "recycle": [
@@ -226034,7 +225785,6 @@ exports.BattleLearnsets = {
  "appletun": {
   "learnset": {
    "headbutt": [
-    "L1",
     "L1",
     "T"
    ],
@@ -227232,7 +226982,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "spark": [
     "L1",
-    "L1",
     "T"
    ],
    "eerieimpulse": [
@@ -228000,7 +227749,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "octolock": [
     "L1",
-    "L1",
     "T"
    ],
    "octazooka": [
@@ -228367,7 +228115,6 @@ exports.BattleLearnsets = {
  "polteageist": {
   "learnset": {
    "teatime": [
-    "L1",
     "L1",
     "T"
    ],
@@ -228742,7 +228489,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "brutalswing": [
     "L1",
-    "L1",
     "T"
    ],
    "confusion": [
@@ -228926,7 +228672,6 @@ exports.BattleLearnsets = {
  "hatterene": {
   "learnset": {
    "psychic": [
-    "L1",
     "L1",
     "M"
    ],
@@ -229339,7 +229084,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "falsesurrender": [
     "L1",
-    "L1",
     "T"
    ],
    "fakeout": [
@@ -229526,7 +229270,6 @@ exports.BattleLearnsets = {
  "grimmsnarl": {
   "learnset": {
    "spiritbreak": [
-    "L1",
     "L1",
     "T"
    ],
@@ -229787,7 +229530,6 @@ exports.BattleLearnsets = {
  "obstagoon": {
   "learnset": {
    "obstruct": [
-    "L1",
     "L1",
     "T"
    ],
@@ -230080,7 +229822,6 @@ exports.BattleLearnsets = {
  "perrserker": {
   "learnset": {
    "ironhead": [
-    "L1",
     "L1",
     "T"
    ],
@@ -230608,7 +230349,6 @@ exports.BattleLearnsets = {
  "sirfetchd": {
   "learnset": {
    "irondefense": [
-    "L1",
     "L1",
     "T"
    ],
@@ -231140,7 +230880,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "shadowclaw": [
     "L1",
-    "L1",
     "M"
    ],
    "scaryface": [
@@ -231490,7 +231229,6 @@ exports.BattleLearnsets = {
  "alcremie": {
   "learnset": {
    "decorate": [
-    "L1",
     "L1",
     "T"
    ],
@@ -232175,7 +231913,6 @@ exports.BattleLearnsets = {
  "frosmoth": {
   "learnset": {
    "icywind": [
-    "L1",
     "L1",
     "T"
    ],
@@ -233372,7 +233109,6 @@ exports.BattleLearnsets = {
  "copperajah": {
   "learnset": {
    "heavyslam": [
-    "L1",
     "L1",
     "T"
    ],
@@ -234681,7 +234417,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "dragonpulse": [
     "L1",
-    "L1",
     "M"
    ],
    "astonish": [
@@ -234900,7 +234635,6 @@ exports.BattleLearnsets = {
  "dragapult": {
   "learnset": {
    "dragondarts": [
-    "L1",
     "L1",
     "T"
    ],
@@ -235958,7 +235692,6 @@ exports.BattleLearnsets = {
  "urshifu": {
   "learnset": {
    "wickedblow": [
-    "L1",
     "L1",
     "T"
    ],
@@ -237972,7 +237705,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "highhorsepower": [
     "L1",
-    "L1",
     "T"
    ],
    "hammerarm": [
@@ -239496,7 +239228,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "scaryface": [
     "L1",
-    "L1",
     "T"
    ],
    "swordsdance": [
@@ -239742,7 +239473,6 @@ exports.BattleLearnsets = {
  "raichualola": {
   "learnset": {
    "psychic": [
-    "L1",
     "L1",
     "M"
    ],
@@ -240372,7 +240102,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "iciclespear": [
     "L1",
-    "L1",
     "T"
    ],
    "metalburst": [
@@ -240975,7 +240704,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "dazzlinggleam": [
     "L1",
-    "L1",
     "M"
    ],
    "imprison": [
@@ -241541,7 +241269,6 @@ exports.BattleLearnsets = {
  "dugtrioalola": {
   "learnset": {
    "sandtomb": [
-    "L1",
     "L1",
     "T"
    ],
@@ -242128,7 +241855,6 @@ exports.BattleLearnsets = {
  "persianalola": {
   "learnset": {
    "swift": [
-    "L1",
     "L1",
     "T"
    ],
@@ -243630,7 +243356,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "venomdrench": [
     "L1",
-    "L1",
     "T"
    ],
    "pound": [
@@ -243971,7 +243696,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "dragonhammer": [
     "L1",
-    "L1",
     "T"
    ],
    "seedbomb": [
@@ -244290,7 +244014,6 @@ exports.BattleLearnsets = {
  "marowakalola": {
   "learnset": {
    "shadowbone": [
-    "L1",
     "L1",
     "T"
    ],
@@ -245105,7 +244828,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "flaringrush": [
     "L1",
-    "L1",
     "L36",
     "M"
    ],
@@ -245634,7 +245356,6 @@ exports.BattleLearnsets = {
  "slowbrogalar": {
   "learnset": {
    "shellsidearm": [
-    "L1",
     "L1",
     "T"
    ],
@@ -246182,7 +245903,6 @@ exports.BattleLearnsets = {
  "weezinggalar": {
   "learnset": {
    "strangesteam": [
-    "L1",
     "L1",
     "T"
    ],
@@ -247370,7 +247090,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "eeriespell": [
     "L1",
-    "L1",
     "T"
    ],
    "powergem": [
@@ -248166,7 +247885,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "nightslash": [
     "L1",
-    "L1",
     "T"
    ],
    "switcheroo": [
@@ -248608,7 +248326,6 @@ exports.BattleLearnsets = {
  "darmanitangalar": {
   "learnset": {
    "iciclecrash": [
-    "L1",
     "L1",
     "M"
    ],
@@ -249506,7 +249223,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "extremespeed": [
     "L1",
-    "L1",
     "T"
    ],
    "leer": [
@@ -250077,7 +249793,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "chloroblast": [
     "L1",
-    "L1",
     "T"
    ],
    "charge": [
@@ -250321,7 +250036,6 @@ exports.BattleLearnsets = {
  "typhlosionhisui": {
   "learnset": {
    "shadowball": [
-    "L1",
     "L1",
     "M"
    ],
@@ -251223,7 +250937,6 @@ exports.BattleLearnsets = {
  "samurotthisui": {
   "learnset": {
    "nightslash": [
-    "L1",
     "L1",
     "T"
    ],
@@ -252640,7 +252353,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "irondefense": [
     "L1",
-    "L1",
     "T"
    ],
    "tackle": [
@@ -252838,7 +252550,6 @@ exports.BattleLearnsets = {
  "goodrahisui": {
   "learnset": {
    "tearfullook": [
-    "L1",
     "L1",
     "T"
    ],
@@ -253110,7 +252821,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "iciclecrash": [
     "L1",
-    "L1",
     "M"
    ],
    "bodyslam": [
@@ -253351,7 +253061,6 @@ exports.BattleLearnsets = {
  "decidueyehisui": {
   "learnset": {
    "triplearrows": [
-    "L1",
     "L1",
     "T"
    ],
@@ -254799,7 +254508,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "quiverdance": [
     "L1",
-    "L1",
     "T"
    ],
    "suckerpunch": [
@@ -255016,7 +254724,6 @@ exports.BattleLearnsets = {
  "wormadamtrash": {
   "learnset": {
    "quiverdance": [
-    "L1",
     "L1",
     "T"
    ],
@@ -257339,7 +257046,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "spark": [
     "L1",
-    "L1",
     "T"
    ],
    "eerieimpulse": [
@@ -257823,7 +257529,6 @@ exports.BattleLearnsets = {
  "urshifurapidstrike": {
   "learnset": {
    "surgingstrikes": [
-    "L1",
     "L1",
     "T"
    ],
@@ -258733,7 +258438,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "gigadrain": [
     "L1",
-    "L1",
     "M"
    ],
    "earthpower": [
@@ -259070,7 +258774,6 @@ exports.BattleLearnsets = {
  "charizardmegax": {
   "learnset": {
    "airslash": [
-    "L1",
     "L1",
     "T"
    ],
@@ -259490,7 +259193,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "airslash": [
     "L1",
-    "L1",
     "T"
    ],
    "dragonclaw": [
@@ -259909,7 +259611,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "irontail": [
     "L1",
-    "L1",
     "M"
    ],
    "flashcannon": [
@@ -260305,7 +260006,6 @@ exports.BattleLearnsets = {
  "beedrillmega": {
   "learnset": {
    "bugbite": [
-    "L1",
     "L1",
     "T"
    ],
@@ -261165,7 +260865,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "withdraw": [
     "L1",
-    "L1",
     "T"
    ],
    "healpulse": [
@@ -261593,7 +261292,6 @@ exports.BattleLearnsets = {
  "gengarmega": {
   "learnset": {
    "shadowpunch": [
-    "L1",
     "L1",
     "T"
    ],
@@ -262646,7 +262344,6 @@ exports.BattleLearnsets = {
  "gyaradosmega": {
   "learnset": {
    "bite": [
-    "L1",
     "L1",
     "T"
    ],
@@ -264302,7 +263999,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "dragonpulse": [
     "L1",
-    "L1",
     "M"
    ],
    "zapcannon": [
@@ -265590,7 +265286,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "snarl": [
     "L1",
-    "L1",
     "M"
    ],
    "thunderfang": [
@@ -266336,7 +266031,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "dragonpulse": [
     "L1",
-    "L1",
     "M"
    ],
    "dualchop": [
@@ -266733,7 +266427,6 @@ exports.BattleLearnsets = {
  "blazikenmega": {
   "learnset": {
    "blazekick": [
-    "L1",
     "L1",
     "T"
    ],
@@ -267133,7 +266826,6 @@ exports.BattleLearnsets = {
  "swampertmega": {
   "learnset": {
    "stompingtantrum": [
-    "L1",
     "L1",
     "T"
    ],
@@ -269090,7 +268782,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "zenheadbutt": [
     "L1",
-    "L1",
     "M"
    ],
    "firepunch": [
@@ -269698,7 +269389,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "slash": [
     "L1",
-    "L1",
     "T"
    ],
    "nightslash": [
@@ -269975,7 +269665,6 @@ exports.BattleLearnsets = {
  "cameruptmega": {
   "learnset": {
    "rockslide": [
-    "L1",
     "L1",
     "M"
    ],
@@ -270288,7 +269977,6 @@ exports.BattleLearnsets = {
  "altariamega": {
   "learnset": {
    "dragonpulse": [
-    "L1",
     "L1",
     "M"
    ],
@@ -271280,7 +270968,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "freezedry": [
     "L1",
-    "L1",
     "M"
    ],
    "sheercold": [
@@ -271539,7 +271226,6 @@ exports.BattleLearnsets = {
  "salamencemega": {
   "learnset": {
    "fly": [
-    "L1",
     "L1",
     "M"
    ],
@@ -271841,7 +271527,6 @@ exports.BattleLearnsets = {
  "metagrossmega": {
   "learnset": {
    "hammerarm": [
-    "L1",
     "L1",
     "T"
    ],
@@ -272873,7 +272558,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "return": [
     "L1",
-    "L1",
     "M"
    ],
    "healingwish": [
@@ -273236,7 +272920,6 @@ exports.BattleLearnsets = {
  "garchompmega": {
   "learnset": {
    "earthquake": [
-    "L1",
     "L1",
     "M"
    ],
@@ -274229,7 +273912,6 @@ exports.BattleLearnsets = {
  "gallademega": {
   "learnset": {
    "slash": [
-    "L1",
     "L1",
     "T"
    ],
@@ -287975,7 +287657,6 @@ exports.BattleLearnsets = {
     "M"
    ],
    "flipturn": [
-    "T",
     "T"
    ],
    "frustration": [
@@ -288196,7 +287877,6 @@ exports.BattleLearnsets = {
     "M"
    ],
    "flipturn": [
-    "T",
     "T"
    ],
    "frustration": [
@@ -288306,7 +287986,6 @@ exports.BattleLearnsets = {
  "darmanitanzen": {
   "learnset": {
    "hammerarm": [
-    "L1",
     "L1",
     "T"
    ],
@@ -288602,7 +288281,6 @@ exports.BattleLearnsets = {
  "darmanitangalarzen": {
   "learnset": {
    "hammerarm": [
-    "L1",
     "L1",
     "T"
    ],
@@ -290208,7 +289886,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "darkpulse": [
     "L1",
-    "L1",
     "M"
    ],
    "spikes": [
@@ -290515,7 +290192,6 @@ exports.BattleLearnsets = {
  "greninjaash": {
   "learnset": {
    "darkpulse": [
-    "L1",
     "L1",
     "M"
    ],
@@ -294240,7 +293916,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "multiattack": [
     "L1",
-    "L1",
     "T"
    ],
    "explosion": [
@@ -294533,7 +294208,6 @@ exports.BattleLearnsets = {
  "silvallyflying": {
   "learnset": {
    "multiattack": [
-    "L1",
     "L1",
     "T"
    ],
@@ -294828,7 +294502,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "multiattack": [
     "L1",
-    "L1",
     "T"
    ],
    "explosion": [
@@ -295121,7 +294794,6 @@ exports.BattleLearnsets = {
  "silvallyground": {
   "learnset": {
    "multiattack": [
-    "L1",
     "L1",
     "T"
    ],
@@ -295416,7 +295088,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "multiattack": [
     "L1",
-    "L1",
     "T"
    ],
    "explosion": [
@@ -295709,7 +295380,6 @@ exports.BattleLearnsets = {
  "silvallybug": {
   "learnset": {
    "multiattack": [
-    "L1",
     "L1",
     "T"
    ],
@@ -296004,7 +295674,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "multiattack": [
     "L1",
-    "L1",
     "T"
    ],
    "explosion": [
@@ -296297,7 +295966,6 @@ exports.BattleLearnsets = {
  "silvallysteel": {
   "learnset": {
    "multiattack": [
-    "L1",
     "L1",
     "T"
    ],
@@ -296592,7 +296260,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "multiattack": [
     "L1",
-    "L1",
     "T"
    ],
    "explosion": [
@@ -296885,7 +296552,6 @@ exports.BattleLearnsets = {
  "silvallywater": {
   "learnset": {
    "multiattack": [
-    "L1",
     "L1",
     "T"
    ],
@@ -297180,7 +296846,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "multiattack": [
     "L1",
-    "L1",
     "T"
    ],
    "explosion": [
@@ -297473,7 +297138,6 @@ exports.BattleLearnsets = {
  "silvallyelectric": {
   "learnset": {
    "multiattack": [
-    "L1",
     "L1",
     "T"
    ],
@@ -297768,7 +297432,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "multiattack": [
     "L1",
-    "L1",
     "T"
    ],
    "explosion": [
@@ -298061,7 +297724,6 @@ exports.BattleLearnsets = {
  "silvallyice": {
   "learnset": {
    "multiattack": [
-    "L1",
     "L1",
     "T"
    ],
@@ -298356,7 +298018,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "multiattack": [
     "L1",
-    "L1",
     "T"
    ],
    "explosion": [
@@ -298650,7 +298311,6 @@ exports.BattleLearnsets = {
   "learnset": {
    "multiattack": [
     "L1",
-    "L1",
     "T"
    ],
    "explosion": [
@@ -298943,7 +298603,6 @@ exports.BattleLearnsets = {
  "silvallyfairy": {
   "learnset": {
    "multiattack": [
-    "L1",
     "L1",
     "T"
    ],
