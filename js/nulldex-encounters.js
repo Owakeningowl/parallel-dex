@@ -407,14 +407,10 @@
       pushEncounters("W", BattleLocationdex[location].surf.encs, surfRates);
       pushEncounters("R", BattleLocationdex[location].rock.encs, rockRates);
 
-      if (BattleLocationdex[location].fish.encs) {
-        var superStart = oldRodRates.length + goodRodRates.length;
-        pushEncounters(
-          "S",
-          BattleLocationdex[location].fish.encs,
-          superRodRates,
-          superStart,
-        );
+      var fishEncs = BattleLocationdex[location].fish.encs;
+      if (fishEncs) {
+        pushEncounters("O", fishEncs, oldRodRates, 0);
+        pushEncounters("G", fishEncs, goodRodRates, oldRodRates.length);
       }
 
       return (this.results = results);
@@ -429,8 +425,10 @@
             return "<h3>Surfing</h3>";
           case "R":
             return "<h3>Rock Smash</h3>";
-          case "S":
-            return "<h3>Super Rod</h3>";
+          case "O":
+            return "<h3>Old Rod</h3>";
+          case "G":
+            return "<h3>Good Rod</h3>";
         }
         return '<pre>error: "' + entry.type + '"</pre>';
       }
